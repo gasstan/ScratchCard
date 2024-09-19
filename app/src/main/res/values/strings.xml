@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ScratchCard</string>
+    <string name="card_activated">Card activated!</string>
+    <string name="reset">Reset</string>
+    <string name="error">Error</string>
+    <string name="ok">OK</string>
+    <string name="activate_card">Activate Card</string>
+    <string name="you_have_to_scratch_the_card_first">You have to scratch the card first!</string>
+    <string name="go_to_scratch_screen">Go to Scratch screen</string>
+    <string name="scratch_card_state">Scratch Card State: %1$s</string>
+    <string name="go_to_activation_screen">Go to Activation Screen</string>
+    <string name="scratch_card">Scratch Card</string>
+    <string name="your_code">Your code: \n%1$s</string>
+    <string name="activate">Activate</string>
+</resources>
